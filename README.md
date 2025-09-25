@@ -7,5 +7,5 @@ Otra modificación mas para demostrar como funciona fetch.
 
 Se agrega otra linea para demostrar como funcion pull
 
-
+Edito para probar que no se puede hacer push sin hacer un pull
 
